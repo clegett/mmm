@@ -12,6 +12,7 @@ Classes:
 
 from math import sqrt, pi
 
+
 class Sphere:
     """A class describing the spheres used in the MSTM model
 
